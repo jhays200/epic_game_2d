@@ -7,3 +7,6 @@
   :main ^:skip-aot epic-game-2d.core
   :target-path "target/%s"
   :profiles {:uberjar {:aot :all}})
+
+
+
